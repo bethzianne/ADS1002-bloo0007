@@ -1,0 +1,17 @@
+W7 Reflective Journal
+
+Name: Bethany Loo Zi Anne
+Student ID: 36858129
+
+
+Google docs link:
+https://docs.google.com/document/d/1WJ3sd3zwEYjju4duOar0cjuY9LWq9t6gEuzXlaCYVcA/edit?usp=sharing
+
+
+Topic: What is your role in the group and has it changed over the semester? If there were any challenges, how did you deal with them? 
+
+By Week 7, our group had completed our respective EDA sections and prepared for the mock presentation. My role was to analyse the research question involving 37 physiological measurement variables and their association with in-hospital mortality. This required me to organise my section, select the most relevant measurements, and create suitable visual analyses to support the research question.
+In terms of feelings, I felt challenged because some initial graph drafts did not produce meaningful insights. Some had limited data, while others were too similar to another member’s findings. However, this motivated me to refine my focus and explore a more specific angle within my research question.
+I evaluated that our group made strong progress because everyone completed their parts on time and gave feedback to one another. Our rehearsal before the mock presentation also helped us check timing and flow, allowing the presentation to run smoothly. However, one difficulty was ensuring that each section remained distinct without excessive overlap.
+My analysis is that my role developed from proposing a research question to making clearer analytical decisions. The difficulty with my initial graphs occurred because not every visualisation added useful insight or answered the question directly. Using Pearson correlation, which was taught in class, helped me examine associations more systematically and justify which physiological measurements were more relevant to ICU mortality. This showed me that meaningful EDA requires both statistical reasoning and judgement.
+In conclusion, I learned that my role is not only to complete my section, but also to ensure that it contributes clearly to the group’s overall project. For my action plan, I will refine my EDA section by keeping only relevant graphs, clearly interpreting my correlation results, and identifying useful physiological predictors for our predictive model.
